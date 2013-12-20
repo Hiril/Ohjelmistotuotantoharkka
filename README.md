@@ -35,3 +35,12 @@ Tämä on yritetty kommata, mutta jokin ei ole toiminut yrittäjän päässä. V
 Vaikuttaa ihan fiksulta tämä GitHub toiminnaltaan, kunhan vain ymmärtää, että miksi tämä ohjelma sanoo erilaisia asioita. Kuten "Sinulla ei ole oikeutta muuttaa tätä tiedostoa, luodaan uusi haara.." Mutta, jos(kus) nämä tulee ymmärrettyä, niin toimiva tämä sivusto voi kyllä olla..
 
 T. Aleksi Väisänen 1103001
+
+--------------------------------------------
+
+Selkeästi GitHubin käyttö oli enemmän ja vähemmän onnistunutta ryhmän eri jäsenten keskuudessa. Konsensus vaikuttaisi olevan kuitenkin se, että kunhan motivaatiota ja aikaa tutustumiseen on käytössä, on kysessää hyvä apuväline monitahoisen työn yhteydessä.
+
+Hyvää joulua,
+ja vinkeää uuttavuotta!
+
+-S-
