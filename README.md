@@ -29,3 +29,9 @@ T: Ville Suomi
 
 En tajua en... Herjaa kaikenlaista...
 T: Kiia Tammi 1103037
+
+Tämä on yritetty kommata, mutta jokin ei ole toiminut yrittäjän päässä. Viesti ja info välitetty muin keinoin ja lisätty tänne, eri tahon toimesta kuin se on tuotettu.
+
+Vaikuttaa ihan fiksulta tämä GitHub toiminnaltaan, kunhan vain ymmärtää, että miksi tämä ohjelma sanoo erilaisia asioita. Kuten "Sinulla ei ole oikeutta muuttaa tätä tiedostoa, luodaan uusi haara.." Mutta, jos(kus) nämä tulee ymmärrettyä, niin toimiva tämä sivusto voi kyllä olla..
+
+T. Aleksi Väisänen 1103001
