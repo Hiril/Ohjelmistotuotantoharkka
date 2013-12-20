@@ -4,10 +4,15 @@ Ohjelmistotuotantoharkka
 Hubin testaamista harkka varten
 
 "Analyysiosio" josta puhuttiin luennoijankin kanssa tulee essee-tiedostoon.
+Koska ryhmällä ei ollut meneillää ohjelmointiprojekteja joita olisi voinut hyödyntää tämän harjoituksen yhteydessä päädyttiin kurssin aiheita pohtimaan siten, että aiheena oli opintojen aikana tehndyt aikaisemmat työt ja harjoitukset.
+Näistä töistä pyrittiin tunnistamaan kurssilla esiteltyjä työskentelymalleja ja työvälineitä ja joissain tapauksissa myös pohtimaan olisiko aikaisempia töitä voinut tehostaa kurssilla saaatavan tietouden perusteella.
+Lopputulos oli varsin tyydyttävä joskaan ei erinomainen.
 
-Sisalto.txt:ssä avauduin vähän tunnoista mitä oli kun hubin kanssa ähistelin. Puhdasta hermopurkua ja mouhoa.  Tämä sisältää myös ne jutut joita tein kun haarautumista testasin.
 
-Oikeaakin palautetta sorruin kirjoittamaan erilliseen tiedostoon.
+Sisalto.txt:ssä avauduin vähän tunnoista mitä oli kun hubin kanssa ähistelin. Puhdasta hermopurkua ja mouhoa.  Tämä sisältää myös ne jutut joita tein kun haarautumista testasin. Käytännössä siis melko puhdasta diipa daapaa...
+
+
+Oikeaakin palautetta sorruin kirjoittamaan erilliseen tiedostoon. Tämä voi kiinnostaa opettajaa ;)
 
 ------------------------------------
 
